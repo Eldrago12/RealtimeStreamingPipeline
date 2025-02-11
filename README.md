@@ -22,8 +22,10 @@ The project is designed with the following components:
    ```bash
    cd RealtimeStreamingPipeline
    ```
+   
+3. Update the config.py file with the appropriate API key and SERVER_URL of Kafka server
 
-3. To spin up the cluster:
+4. To spin up the cluster:
    ```bash
    docker-compose up
    ```
