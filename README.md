@@ -19,9 +19,9 @@ The project is designed with the following components:
    ```
 
 2. Navigate to the project directory:
-  ```bash
-  cd RealtimeStreamingPipeline
-  ```
+   ```bash
+   cd RealtimeStreamingPipeline
+   ```
 
 3. To spin up the cluster:
    ```bash
