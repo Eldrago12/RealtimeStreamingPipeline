@@ -5,8 +5,8 @@ The project is designed with the following components:
 - Data Source: Used yelp.com dataset for our pipeline with over 7 million records.
 - TCP/IP Socket: Used to stream data over the network in chunks
 - Apache Spark: For data processing with its master and worker nodes using Docker.
-- OpenAI API - Used for generating feeback based on the reviews from the dataset.
-= Confluent(GCP) Kafka: Our cluster on the cloud.
+- OpenAI API: Used for generating feeback based on the reviews from the dataset.
+- Confluent(GCP) Kafka: Our cluster on the cloud.
 - Control Center and Schema Registry: Helps in monitoring and schema management of our Kafka streams.
 - Kafka Connect: For connecting to elasticsearch.
 - Elasticsearch: For indexing and querying.
